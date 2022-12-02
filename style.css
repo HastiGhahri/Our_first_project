@@ -1,0 +1,19 @@
+body{
+    background-color: #1d4d60;
+}
+.hasti{
+    width: 500px;
+    height: 500px;
+    background-color: #35c361;
+
+}
+.hasti h5 {
+    text-align: center;
+    border-bottom: 2px solid black;
+    width: 40%;
+}
+.hasti a {
+    color: aliceblue;
+    text-decoration: none;
+
+}
